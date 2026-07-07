@@ -4,7 +4,7 @@
   "licenses": [
     {
       "hash": "37964ef628b2db1cffc127e4d4b6c3db7766603430d0269a86ffb2701bc15a8a",
-      "active": true,
+      "active": false,
       "customer": "Tom Griffin",
       "note": "Test",
       "createdAt": "2026-07-07T18:57:02.222Z"
